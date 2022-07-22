@@ -1,1 +1,4 @@
-_config.yml
+config/_config.yml
+config/readthedocs.txt
+.idea
+
